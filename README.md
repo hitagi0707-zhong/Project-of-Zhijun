@@ -1,7 +1,7 @@
 # Projects-of-Zhijun
 This is a repository that including all research projects and papers of Zhijun Zhong.
 
-The following abstracts about above three projects.
+The following brief introductions about above three projects. 
 
 ## Undergraduate thesis: Automatic text summarization based on pre-trained language model
 
