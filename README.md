@@ -1,9 +1,9 @@
 # Project-of-Zhijun
-This is a repository that including all research projects and papers of Zhijun Zhong
+This is a repository that including all research projects and papers of Zhijun Zhong.
+
 The following abstracts about above three projects.
 
-## Undergraduate thesis:
-## Automatic text summarization based on pre-trained language model
+## Undergraduate thesis: Automatic text summarization based on pre-trained language model
 
 Keywords: Deep learning; Text summarization; Attention mechanism; Seq2seq; 
 Bert
@@ -46,8 +46,7 @@ model can effectively improve the quality and readability of the generated summa
 and reduce the training time and cost, which will effectively help people improve 
 reading efficiency and save time.
 
-## paper under review: 
-## The Human Action Recognition Research based on Deep Neural Network
+## paper under review: The Human Action Recognition Research based on Deep Neural Network
 
 A simple abstract is avaliable about this paper:
 
@@ -64,4 +63,9 @@ original methods on the HAR tasks.
 
 Keywords: Human Action Recognition; Deep Neural Network; LRCN Algorithm; Features Extraction; 3D CNN.
 
-## 
+## The research at Hokkaido University: 畳み込みニューラルネットワークによる積雪状態の認識アルゴリズム
+
+In order to estimate the snow percentage of parking road images, a novel algorithm is 
+proposed in this article. Through data augmentation and feature extraction, a 
+regression model is trained. After several experiments, the results demonstrate that the 
+algorithm is able to estimate roughly the covered snow ratio of each image.
