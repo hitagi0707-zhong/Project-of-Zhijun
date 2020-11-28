@@ -1,10 +1,12 @@
 # Project-of-Zhijun
 This is a repository that including all research projects and papers of Zhijun Zhong
+The following abstracts about above three projects.
 
+## Undergraduate thesis:
+## Automatic text summarization based on pre-trained language model
 
-Undergraduate thesis: Automatic text summarization based on pre-trained language model
-
-A simple abstract about the thesis is avaliable:
+Keywords: Deep learning; Text summarization; Attention mechanism; Seq2seq; 
+Bert
 
    In the Internet era of information explosion, with the rise and development of
 various media platforms, individuals daily live is filled with endless information. 
@@ -44,8 +46,22 @@ model can effectively improve the quality and readability of the generated summa
 and reduce the training time and cost, which will effectively help people improve 
 reading efficiency and save time.
 
-Keywords: Deep learning; Text summarization; Attention mechanism; Seq2seq; 
-Bert
+## paper under review: 
+## The Human Action Recognition Research based on Deep Neural Network
 
+A simple abstract is avaliable about this paper:
 
+As one of the hottest research fields in recent years, human action recognition can be widely applied in various fields 
+in real life. Based on the deep neural network, a series of studies on HAR is developed. Firstly, the relevant theory of 
+HAR is briefly introduced from the two aspects of feature extraction algorithm and classifier. Secondly, the two novel 
+networks on the fundament of 2D deep neural networks and 3D convolutional neural networks are proposed. As for 2D, 
+aiming at the poor performance with the long-term recurrent convolutional network algorithm, an improved network, 
+which replaces the AlexNet network used to extract spatial features with a deeper ResNet-34 network, is presented. 
+With respect to 3D, the article also put forward an ungraded action recognition algorithm based on 3D CNN. The 
+algorithm uses the architecture with eight layers of 3D convolution and five layers of pooling. Furthermore, the 
+experimental results on the UCF101 human behavior dataset show that the proposed improved methods outperform 
+original methods on the HAR tasks.
 
+Keywords: Human Action Recognition; Deep Neural Network; LRCN Algorithm; Features Extraction; 3D CNN.
+
+## 
